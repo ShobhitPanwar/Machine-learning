@@ -10,3 +10,5 @@ to detect breast cancer in females. In this python file, I have done EDA, data c
 performance of the model using accuracy as performance metric.
 
 2. breast_cancer_dataset.csv: This is the Breast Cancer Wisconsin (Diagnostic) dataset being used in the above python file.
+
+3. breast_cancer_model_KNN.py: Here I have added a model using KNN classifier, and compared the accuracy of random forest model and KNN model.
