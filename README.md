@@ -1,4 +1,4 @@
-# Machine-learning repository contains two branches:
+Machine-learning repository contains two branches:
 1. main
 2. model-optimised
 
