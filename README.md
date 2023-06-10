@@ -14,3 +14,7 @@ performance of the model using accuracy as performance metric.
 3. Alphabet Recognition with CNN (2) 2.ipynb: I have used EMNIST english handwritten dataset, and have built an CNN model using keras to recognize handwritten alphabets. Accuracy of this model is nearly 93%. I have also built an UI where user can make their own english alphabet and model will recognize it.
 
 4. Email_program.ipynb: I have built a spam email detector application. In this application, user needs to first signup/login, user's credentials are encrypted before getting saved to database. Once logged in, user needs to enter the email, and model will predict weather it's spam or not. To interact with database, sqllite is been used in this application and for model building Multinomial Naive Bayes.
+
+5. Covid19-dashboard.twbx: In this tableau dashboard, I have created visualizations related to covid-19 global spread.
+
+6. COVID-19-global-data.csv: This is the dataset being used for creating the tableau dashboard (Covid19-dashboard.twbx)
